@@ -2,6 +2,63 @@
 
 Welcome to the GitHub Copilot presentation project! This project is designed to provide a comprehensive overview of GitHub Copilot, an AI-powered programming assistant that enhances developer productivity. Below are the details and structure of the project.
 
+## 🚀 Guía Rápida de Inicio (Para Principiantes)
+
+### Paso 1: Descargar el Proyecto
+Tienes dos opciones para obtener el proyecto:
+
+**Opción A - Descargar como ZIP (más fácil):**
+1. Ve a la página del repositorio en GitHub
+2. Haz clic en el botón verde **"Code"**
+3. Selecciona **"Download ZIP"**
+4. Descomprime el archivo en tu computadora
+
+**Opción B - Clonar con Git:**
+1. Abre una terminal o Command Prompt
+2. Ejecuta este comando:
+   ```bash
+   git clone https://github.com/Kenjhy/Presentation_of_Copilot_365.git
+   ```
+
+### Paso 2: Instalar Node.js
+Node.js es necesario para ejecutar el proyecto.
+
+1. Ve a [https://nodejs.org](https://nodejs.org)
+2. Descarga la versión **LTS** (Long Term Support)
+3. Ejecuta el instalador y sigue las instrucciones
+4. Para verificar que se instaló correctamente, abre una terminal y ejecuta:
+   ```bash
+   node --version
+   ```
+   Deberías ver un número de versión (ejemplo: v18.17.0)
+
+### Paso 3: Instalar las Dependencias del Proyecto
+1. Abre una terminal o Command Prompt
+2. Navega a la carpeta del proyecto:
+   ```bash
+   cd "ruta/donde/descargaste/copilot-presentations"
+   ```
+3. Instala las dependencias ejecutando:
+   ```bash
+   npm install
+   ```
+   Este comando descargará e instalará todo lo necesario automáticamente.
+
+### Paso 4: Ejecutar el Proyecto
+1. En la misma terminal, ejecuta:
+   ```bash
+   npm start
+   ```
+2. Automáticamente se abrirá tu navegador web con la presentación
+3. Si no se abre automáticamente, ve a: [http://localhost:8080](http://localhost:8080)
+
+### Solución de Problemas Comunes
+- **"npm no se reconoce como comando"**: Necesitas instalar Node.js (ver Paso 2)
+- **El navegador no se abre**: Abre manualmente tu navegador y ve a `http://localhost:8080`
+- **Puerto en uso**: Si ves un error sobre el puerto 8080, cierra otros programas que puedan estar usándolo
+
+---
+
 ## Project Structure
 
 ```

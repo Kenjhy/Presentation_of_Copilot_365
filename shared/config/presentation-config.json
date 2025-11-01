@@ -1,0 +1,46 @@
+{
+  "presentation": {
+    "title": "GitHub Copilot Presentation",
+    "version": "1.0",
+    "author": "Your Name",
+    "date": "2023-10-01",
+    "slides": {
+      "total": 16,
+      "slideOrder": [
+        "slide-01-title.html",
+        "slide-02-introduction.html",
+        "slide-03-what-is-copilot.html",
+        "slide-04-how-it-works.html",
+        "slide-05-plans.html",
+        "slide-06-prompt-engineering.html",
+        "slide-07-advanced-features.html",
+        "slide-08-use-cases.html",
+        "slide-09-responsible-ai.html",
+        "slide-10-enterprise.html",
+        "slide-11-metrics.html",
+        "slide-12-roi.html",
+        "slide-13-adoption.html",
+        "slide-14-comparison.html",
+        "slide-15-conclusions.html",
+        "slide-16-cta.html"
+      ]
+    },
+    "navigation": {
+      "enableKeyboardNavigation": true,
+      "enableSlideCounter": true,
+      "navigationButtons": {
+        "prev": "← Previous",
+        "next": "Next →"
+      }
+    },
+    "styles": {
+      "theme": "dynamic",
+      "backgroundColor": "#0d1117",
+      "textColor": "#24292f"
+    },
+    "analytics": {
+      "enabled": true,
+      "trackingId": "UA-XXXXXXXXX-X"
+    }
+  }
+}

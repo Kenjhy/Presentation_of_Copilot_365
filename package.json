@@ -1,0 +1,26 @@
+{
+  "name": "copilot-presentations",
+  "version": "1.0.0",
+  "description": "A collection of presentations focused on GitHub Copilot and Copilot 365, catering to various audience levels.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "keywords": [
+    "GitHub",
+    "Copilot",
+    "presentation",
+    "AI",
+    "software development"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
